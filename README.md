@@ -8,6 +8,6 @@ brew install dallisoft/tap/appcleaner
 
 | Formula | Description |
 |---|---|
-| `appcleaner` | CLI of [App Cleaner](https://github.com/dallisoft/app-cleaner) — find and safely remove leftover files of macOS apps (builds from source, macOS 14+, Apple Silicon/Intel with Swift 6 toolchain) |
+| `appcleaner` | CLI of [App Cleaner](https://github.com/dallisoft/app-cleaner) — find and safely remove leftover files of macOS apps (builds from source; macOS 14+, Swift 6 toolchain — Command Line Tools is enough) |
 
 `Formula/appcleaner.rb` is generated from `packaging/homebrew/appcleaner.rb` in dallisoft/app-cleaner and updated automatically on each release — edit it there, not here.
